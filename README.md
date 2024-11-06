@@ -1,5 +1,5 @@
-1. Tanpa data
-  ![image](https://github.com/user-attachments/assets/902057f5-6159-4dad-82fd-871c130e0408)
-
-3. Dengan data
-  ![image](https://github.com/user-attachments/assets/91df7c18-23f3-4788-89da-2b678f65fb5c)
+1. Tanp
+   ![denagan data](https://github.com/user-attachments/assets/6e1db91c-b20b-4003-8d86-297a0176edb1)
+   
+2. Dengan data
+   ![tanpa data](https://github.com/user-attachments/assets/7b466989-3e5b-4cf3-8013-138a870968b1)
